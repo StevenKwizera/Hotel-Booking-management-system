@@ -1,7 +1,6 @@
 # Orkestra Hospitality Management System
 
-Full-stack hospitality platform for **Net Luna Villa Hotel** and **Adventist University of Central Africa (AUCA)**.
-
+Hotel booking and management system — full-stack hospitality platform for **Net Luna Villa Hotel** and **Adventist University of Central Africa (AUCA)**.
 ## Stack
 
 | Layer | Technology |
