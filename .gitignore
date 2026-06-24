@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+backend/.env
+backend/application-local.yml
+backend/target/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+*.class
+*.jar
+!backend/mvnw
+!backend/.mvn/wrapper/maven-wrapper.jar
